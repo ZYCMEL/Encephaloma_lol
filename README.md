@@ -2,7 +2,7 @@
 Brain Stroke Data Frame
 https://drive.google.com/file/d/15G9Ksaq_29WPXOO0Z-ND7RsWG4N8SiD6/view?usp=sharing
 
-This an analysis made on the aforementioned data base. It includes the use of the age, gender, hypertension, heart disease, BMI, smoking status, and if the respondent was ever married. Analysis mainly focuses their relation with strokes.
+This an analysis made on the aforementioned data base. It includes the use of the age, gender, hypertension, heart disease, BMI, smoking status, and if the respondent was ever married. Analysis mainly focuses their relation with strokes and other ailments.
 
 Firstly, the data was transferred into Python as a CSV file for access and analysis. Functions were used to examine the dataframe for errors, missing values, discrepancies, and business logics. Any values deemed necessary for change were done so using in built Python functions.
 
